@@ -1,1 +1,1 @@
-# educonnect_1
+EduConnect-modern-frontend
